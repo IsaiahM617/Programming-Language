@@ -2,7 +2,7 @@
 #ifndef LEXER_H
 #define LEXER_H
 
-#include "Token.h"
+#include "TOKEN.h"
 #include <string>
 #include <vector>
 #include <unordered_map>
